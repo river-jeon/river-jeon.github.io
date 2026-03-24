@@ -6,8 +6,6 @@ image: '/images/38.jpg'
 
 Hi, my name is Soyeon Jeon.  
 
-I like being surrounded by ideas, unexpected questions, and moments that demand curiosity. I do what excites me, often with too much energy, and avoid what doesn’t. I like the kind of academic freedom where you work seven days a week, but you choose which seven. 
-
 My research integrates computational modeling, media analysis, and political behavior through vision-language models and multimodal data analysis. While computational social science serves as my primary methodological foundation, particularly for studying political communication, my methodological roots trace back to qualitative research. I am proficient in interviews, focus group studies, participant observation, and discourse analysis, having applied these methods in two key research contexts: examining the realization of people's sovereignty through NGO work and studying participatory budgeting systems. 
 
 ![Loneliness]({{site.baseurl}}/images/40.jpg)  
@@ -26,4 +24,4 @@ My central focus these days is understanding the mechanisms driving citizen beha
 </div>
 
 
-Movies, dramas, and animations provide a mental reset for me. Although I don't consider myself a public intellectual, I'm deeply committed to conducting research with public relevance.
+I like being surrounded by ideas, unexpected questions, and moments that demand curiosity. I do what excites me, often with too much energy, and avoid what doesn’t. I like the kind of academic freedom where you work seven days a week, but you choose which seven. Movies, dramas, and animations provide a mental reset for me. Although I don't consider myself a public intellectual, I'm deeply committed to conducting research with public relevance. 
