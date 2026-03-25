@@ -1,5 +1,5 @@
 baseurl: ""  
-url: "https://river-jeon.github.io"
+url: "https://jeonsoyeon.com"
 
 markdown: kramdown
 permalink: /:title
