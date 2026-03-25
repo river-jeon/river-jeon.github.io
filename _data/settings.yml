@@ -1,9 +1,10 @@
 #-------------------------------
 # Site Settings
 
-title: Soyeon Jeon
+title: Soyeon Jeon | Ph.D. Candidate in Political Science, Washington University in St. Louis
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Avenco – Creative Portfolio Theme for Jekyll
+description: Soyeon Jeon is a Ph.D. candidate in Political Science at Washington University in St. Louis, researching political behavior, language models, and deliberative democracy.
+url: "https://jeonsoyeon.com"
 
 menu__settings:
   menu__items:
@@ -36,7 +37,7 @@ cover__image: '/images/37.jpg'
 author:
   name: Soyeon Jeon
   title: Hello I’m Soyeon!
-  bio: "I am a Ph.D. student in Political Science and an A.M. student in Statistics and Data Science at Washington University in St. Louis. I am interested in Computational Social Science and Political Communication. When I'm not working, 404 not found."
+  bio: "I am a Ph.D. candidate in Political Science at Washington University in St. Louis, where I also hold an A.M. in Statistics and Data Science. My research focuses on political behavior, large language models, and deliberative democracy."
   image: '/images/01.jpg'
   avatar: '/images/avatar.jpg'
   button__text: Download my CV
